@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ej1ProgCondicional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfe214b8edadec8f7862239d9e351911d27eb725")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b62efddc175662a1409babdbe27bdf9fda7fcf35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ej1ProgCondicional")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ej1ProgCondicional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
