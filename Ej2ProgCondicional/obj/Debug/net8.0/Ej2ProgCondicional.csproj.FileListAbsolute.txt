@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\bin\Debug\net8.0\Ej2ProgCondicional.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\bin\Debug\net8.0\Ej2ProgCondicional.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\bin\Debug\net8.0\Ej2ProgCondicional.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\bin\Debug\net8.0\Ej2ProgCondicional.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\bin\Debug\net8.0\Ej2ProgCondicional.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\Ej2ProgCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\Ej2ProgCondicional.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\Ej2ProgCondicional.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\Ej2ProgCondicional.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\Ej2ProgCondicional.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\Ej2ProgCondicional.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\refint\Ej2ProgCondicional.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\Ej2ProgCondicional.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\Ej2ProgCondicional.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ej2ProgCondicional\obj\Debug\net8.0\ref\Ej2ProgCondicional.dll
