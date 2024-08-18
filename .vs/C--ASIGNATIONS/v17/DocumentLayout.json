@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5E67E33-750B-41A9-A4A6-8DD968993012}|Ej3ProgCondicional\\Ej3ProgCondicional.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\ej3progcondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5E67E33-750B-41A9-A4A6-8DD968993012}|Ej3ProgCondicional\\Ej3ProgCondicional.csproj|solutionrelative:ej3progcondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D28E5628-AFEA-4BB9-A234-402353399EC4}|BucleFor-Ejercicio1\\BucleFor-Ejercicio1.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\buclefor-ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28E5628-AFEA-4BB9-A234-402353399EC4}|BucleFor-Ejercicio1\\BucleFor-Ejercicio1.csproj|solutionrelative:buclefor-ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5048F94-53A6-4459-A7C4-39241421F664}|Ej1ProgCondicional\\Ej1ProgCondicional.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\ej1progcondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5048F94-53A6-4459-A7C4-39241421F664}|Ej1ProgCondicional\\Ej1ProgCondicional.csproj|solutionrelative:ej1progcondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej2ProgCondicional\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ej2ProgCondicional\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C345C23-A3C3-4A26-A66A-FFE4DDA43137}|Ej2ProgCondicional\\Ej2ProgCondicional.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\ej2progcondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C345C23-A3C3-4A26-A66A-FFE4DDA43137}|Ej2ProgCondicional\\Ej2ProgCondicional.csproj|solutionrelative:ej2progcondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej1ProgCondicional\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ej1ProgCondicional\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej3SumaPromedio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ej3SumaPromedio\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej3ProgCondicional\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ej3ProgCondicional\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 16,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej3ProgCondicional\\Program.cs",
+              "RelativeDocumentMoniker": "Ej3ProgCondicional\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej3ProgCondicional\\Program.cs",
+              "RelativeToolTip": "Ej3ProgCondicional\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T03:08:26.677Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -74,41 +96,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej3ProgCondicional\\Program.cs",
-              "RelativeDocumentMoniker": "Ej3ProgCondicional\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej3ProgCondicional\\Program.cs",
-              "RelativeToolTip": "Ej3ProgCondicional\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej3SumaPromedio\\Program.cs",
+              "RelativeDocumentMoniker": "Ej3SumaPromedio\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej3SumaPromedio\\Program.cs",
+              "RelativeToolTip": "Ej3SumaPromedio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T03:08:26.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej1ProgCondicional\\Program.cs",
-              "RelativeDocumentMoniker": "Ej1ProgCondicional\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej1ProgCondicional\\Program.cs",
-              "RelativeToolTip": "Ej1ProgCondicional\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T02:22:55.429Z",
+              "WhenOpened": "2024-08-17T18:48:01.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej1ProgCondicional\\Program.cs",
+              "RelativeDocumentMoniker": "Ej1ProgCondicional\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej1ProgCondicional\\Program.cs",
+              "RelativeToolTip": "Ej1ProgCondicional\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T02:22:55.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej2ProgCondicional\\Program.cs",
               "RelativeDocumentMoniker": "Ej2ProgCondicional\\Program.cs",
               "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ej2ProgCondicional\\Program.cs",
               "RelativeToolTip": "Ej2ProgCondicional\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T02:56:52.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleFor-Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "BucleFor-Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleFor-Ejercicio1\\Program.cs",
+              "RelativeToolTip": "BucleFor-Ejercicio1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:52:57.871Z",
               "EditorCaption": ""
             }
           ]

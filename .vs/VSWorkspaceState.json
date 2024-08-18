@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ej1SumaProducto",
-    "\\Ej2ArticuloCantidad"
+    "\\Ej1ProgCondicional",
+    "\\Ej2ArticuloCantidad",
+    "\\Ej2ProgCondicional",
+    "\\Ej3ProgCondicional"
   ],
-  "SelectedNode": "\\Ej1SumaProducto\\Program.cs",
+  "SelectedNode": "\\Ej3ProgCondicional\\Ej3ProgCondicional.csproj",
   "PreviewInSolutionExplorer": false
 }
