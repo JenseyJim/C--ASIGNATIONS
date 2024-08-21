@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{660C5F53-80E8-4C76-AEE8-A986F9F601EC}|BucleWhile - Ejercicio2\\BucleWhile - Ejercicio2.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\buclewhile - ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660C5F53-80E8-4C76-AEE8-A986F9F601EC}|BucleWhile - Ejercicio2\\BucleWhile - Ejercicio2.csproj|solutionrelative:buclewhile - ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7873B51C-070B-41D3-B64B-FFD77F95978F}|BucleWhile - Ejercicio1\\BucleWhile - Ejercicio1.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\buclewhile - ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7873B51C-070B-41D3-B64B-FFD77F95978F}|BucleWhile - Ejercicio1\\BucleWhile - Ejercicio1.csproj|solutionrelative:buclewhile - ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -72,18 +76,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "BucleWhile - Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio2\\Program.cs",
+              "RelativeToolTip": "BucleWhile - Ejercicio2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:07:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "BucleWhile - Ejercicio1\\Program.cs",
               "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio1\\Program.cs",
               "RelativeToolTip": "BucleWhile - Ejercicio1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T01:35:51.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleFor-Ejercicio3\\Program.cs",
               "RelativeDocumentMoniker": "BucleFor-Ejercicio3\\Program.cs",
