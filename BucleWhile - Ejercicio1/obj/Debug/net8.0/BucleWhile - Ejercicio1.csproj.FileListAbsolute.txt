@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\bin\Debug\net8.0\BucleWhile - Ejercicio1.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\bin\Debug\net8.0\BucleWhile - Ejercicio1.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\bin\Debug\net8.0\BucleWhile - Ejercicio1.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\bin\Debug\net8.0\BucleWhile - Ejercicio1.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\bin\Debug\net8.0\BucleWhile - Ejercicio1.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\BucleWhile - Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\BucleWhile - Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\BucleWhile - Ejercicio1.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\BucleWhile - Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\BucleWhile - Ejercicio1.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\BucleWhile - Ejercicio1.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\refint\BucleWhile - Ejercicio1.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\BucleWhile - Ejercicio1.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\BucleWhile - Ejercicio1.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BucleWhile - Ejercicio1\obj\Debug\net8.0\ref\BucleWhile - Ejercicio1.dll

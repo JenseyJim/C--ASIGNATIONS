@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ej1ProgCondicional",
-    "\\Ej2ArticuloCantidad",
-    "\\Ej2ProgCondicional",
-    "\\Ej3ProgCondicional"
+    "\\BucleFor-Ejercicio1",
+    "\\BucleFor-Ejercicio2",
+    "\\BucleFor-Ejercicio3",
+    "\\Ej3SumaPromedio"
   ],
-  "SelectedNode": "\\Ej3ProgCondicional\\Ej3ProgCondicional.csproj",
+  "SelectedNode": "\\BucleFor-Ejercicio3\\BucleFor-Ejercicio3.csproj",
   "PreviewInSolutionExplorer": false
 }
