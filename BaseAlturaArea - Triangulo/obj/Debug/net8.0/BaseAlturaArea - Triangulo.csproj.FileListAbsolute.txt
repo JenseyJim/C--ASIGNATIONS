@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\bin\Debug\net8.0\BaseAlturaArea - Triangulo.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\bin\Debug\net8.0\BaseAlturaArea - Triangulo.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\bin\Debug\net8.0\BaseAlturaArea - Triangulo.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\bin\Debug\net8.0\BaseAlturaArea - Triangulo.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\bin\Debug\net8.0\BaseAlturaArea - Triangulo.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\BaseAlturaArea - Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\BaseAlturaArea - Triangulo.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\BaseAlturaArea - Triangulo.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\BaseAlturaArea - Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\BaseAlturaArea - Triangulo.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\BaseAlturaArea - Triangulo.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\refint\BaseAlturaArea - Triangulo.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\BaseAlturaArea - Triangulo.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\BaseAlturaArea - Triangulo.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\BaseAlturaArea - Triangulo\obj\Debug\net8.0\ref\BaseAlturaArea - Triangulo.dll

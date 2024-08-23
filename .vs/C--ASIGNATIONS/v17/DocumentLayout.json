@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{660C5F53-80E8-4C76-AEE8-A986F9F601EC}|BucleWhile - Ejercicio2\\BucleWhile - Ejercicio2.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\buclewhile - ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{660C5F53-80E8-4C76-AEE8-A986F9F601EC}|BucleWhile - Ejercicio2\\BucleWhile - Ejercicio2.csproj|solutionrelative:buclewhile - ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{757E4CA1-909D-4078-A298-7BDF9483101C}|BaseAlturaArea - Triangulo\\BaseAlturaArea - Triangulo.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\basealturaarea - triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757E4CA1-909D-4078-A298-7BDF9483101C}|BaseAlturaArea - Triangulo\\BaseAlturaArea - Triangulo.csproj|solutionrelative:basealturaarea - triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7873B51C-070B-41D3-B64B-FFD77F95978F}|BucleWhile - Ejercicio1\\BucleWhile - Ejercicio1.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\buclewhile - ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7873B51C-070B-41D3-B64B-FFD77F95978F}|BucleWhile - Ejercicio1\\BucleWhile - Ejercicio1.csproj|solutionrelative:buclewhile - ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BucleWhile - Ejercicio2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleFor-Ejercicio3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BucleFor-Ejercicio3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BucleWhile - Ejercicio1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,6 +80,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BaseAlturaArea - Triangulo\\Program.cs",
+              "RelativeDocumentMoniker": "BaseAlturaArea - Triangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BaseAlturaArea - Triangulo\\Program.cs",
+              "RelativeToolTip": "BaseAlturaArea - Triangulo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:07:27.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "BucleWhile - Ejercicio2\\Program.cs",
               "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio2\\Program.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "BucleWhile - Ejercicio1\\Program.cs",
@@ -95,8 +112,7 @@
               "RelativeToolTip": "BucleWhile - Ejercicio1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T01:35:51.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T01:35:51.08Z"
             },
             {
               "$type": "Document",
@@ -108,8 +124,7 @@
               "RelativeToolTip": "BucleFor-Ejercicio3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T01:23:36.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T01:23:36.69Z"
             }
           ]
         }
