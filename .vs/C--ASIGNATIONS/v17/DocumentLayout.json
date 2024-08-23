@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF53F60A-9ECF-4181-99C1-209E2F16088C}|SueldoEmpleados\\SueldoEmpleados.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\sueldoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF53F60A-9ECF-4181-99C1-209E2F16088C}|SueldoEmpleados\\SueldoEmpleados.csproj|solutionrelative:sueldoempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{757E4CA1-909D-4078-A298-7BDF9483101C}|BaseAlturaArea - Triangulo\\BaseAlturaArea - Triangulo.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\basealturaarea - triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{757E4CA1-909D-4078-A298-7BDF9483101C}|BaseAlturaArea - Triangulo\\BaseAlturaArea - Triangulo.csproj|solutionrelative:basealturaarea - triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -80,18 +84,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\SueldoEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "SueldoEmpleados\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\SueldoEmpleados\\Program.cs",
+              "RelativeToolTip": "SueldoEmpleados\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:21:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BaseAlturaArea - Triangulo\\Program.cs",
               "RelativeDocumentMoniker": "BaseAlturaArea - Triangulo\\Program.cs",
               "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BaseAlturaArea - Triangulo\\Program.cs",
               "RelativeToolTip": "BaseAlturaArea - Triangulo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEIAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T23:07:27.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio2\\Program.cs",
               "RelativeDocumentMoniker": "BucleWhile - Ejercicio2\\Program.cs",
@@ -104,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleWhile - Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "BucleWhile - Ejercicio1\\Program.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BucleFor-Ejercicio3\\Program.cs",
               "RelativeDocumentMoniker": "BucleFor-Ejercicio3\\Program.cs",

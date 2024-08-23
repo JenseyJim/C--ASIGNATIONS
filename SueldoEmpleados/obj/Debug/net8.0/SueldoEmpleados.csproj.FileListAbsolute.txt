@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\bin\Debug\net8.0\SueldoEmpleados.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\bin\Debug\net8.0\SueldoEmpleados.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\bin\Debug\net8.0\SueldoEmpleados.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\bin\Debug\net8.0\SueldoEmpleados.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\bin\Debug\net8.0\SueldoEmpleados.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\SueldoEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\SueldoEmpleados.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\SueldoEmpleados.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\SueldoEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\SueldoEmpleados.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\SueldoEmpleados.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\refint\SueldoEmpleados.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\SueldoEmpleados.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\SueldoEmpleados.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\SueldoEmpleados\obj\Debug\net8.0\ref\SueldoEmpleados.dll
