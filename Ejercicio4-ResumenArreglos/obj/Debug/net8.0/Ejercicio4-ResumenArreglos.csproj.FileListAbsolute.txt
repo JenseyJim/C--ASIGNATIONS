@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\bin\Debug\net8.0\Ejercicio4-ResumenArreglos.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\bin\Debug\net8.0\Ejercicio4-ResumenArreglos.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\bin\Debug\net8.0\Ejercicio4-ResumenArreglos.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\bin\Debug\net8.0\Ejercicio4-ResumenArreglos.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\bin\Debug\net8.0\Ejercicio4-ResumenArreglos.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\Ejercicio4-ResumenArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\Ejercicio4-ResumenArreglos.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\Ejercicio4-ResumenArreglos.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\Ejercicio4-ResumenArreglos.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\Ejercicio4-ResumenArreglos.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\Ejercicio4-ResumenArreglos.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\refint\Ejercicio4-ResumenArreglos.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\Ejercicio4-ResumenArreglos.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\Ejercicio4-ResumenArreglos.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\Ejercicio4-ResumenArreglos\obj\Debug\net8.0\ref\Ejercicio4-ResumenArreglos.dll
