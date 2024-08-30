@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08F9CA28-3906-45D4-8157-5927284E24DD}|Ejercicio5-ResumenArreglos\\Ejercicio5-ResumenArreglos.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\ejercicio5-resumenarreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F9CA28-3906-45D4-8157-5927284E24DD}|Ejercicio5-ResumenArreglos\\Ejercicio5-ResumenArreglos.csproj|solutionrelative:ejercicio5-resumenarreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD0333E1-DA9E-4E3D-8AEE-6C2789D63BC7}|Ejercicio4-ResumenArreglos\\Ejercicio4-ResumenArreglos.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\ejercicio4-resumenarreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD0333E1-DA9E-4E3D-8AEE-6C2789D63BC7}|Ejercicio4-ResumenArreglos\\Ejercicio4-ResumenArreglos.csproj|solutionrelative:ejercicio4-resumenarreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -76,6 +80,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ejercicio5-ResumenArreglos\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5-ResumenArreglos\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ejercicio5-ResumenArreglos\\Program.cs",
+              "RelativeToolTip": "Ejercicio5-ResumenArreglos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T23:59:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ejercicio4-ResumenArreglos\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio4-ResumenArreglos\\Program.cs",
               "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Ejercicio4-ResumenArreglos\\Program.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\SueldoEmpleados\\Program.cs",
               "RelativeDocumentMoniker": "SueldoEmpleados\\Program.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\BaseAlturaArea - Triangulo\\Program.cs",
               "RelativeDocumentMoniker": "BaseAlturaArea - Triangulo\\Program.cs",
