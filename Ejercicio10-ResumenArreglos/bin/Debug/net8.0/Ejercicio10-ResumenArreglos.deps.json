@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio10-ResumenArreglos/1.0.0": {
+        "runtime": {
+          "Ejercicio10-ResumenArreglos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio10-ResumenArreglos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
