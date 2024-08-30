@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio4-ResumenArreglos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4157459167ba61de630e5c52c06ed49b8e07f8ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf365af28e3fff1a8927f57268a339648f282d37")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio4-ResumenArreglos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio4-ResumenArreglos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
