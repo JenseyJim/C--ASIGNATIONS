@@ -1,11 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BaseAlturaArea - Triangulo",
-    "\\BucleFor-Ejercicio3",
-    "\\Ej3SumaPromedio",
-    "\\SueldoEmpleados"
+    "\\Ejercicio10-ResumenArreglos",
+    "\\Ejercicio2-ResumenArreglos",
+    "\\Ejercicio3-ResumenArreglos",
+    "\\Ejercicio4-ResumenArreglos",
+    "\\Ejercicio5-ResumenArreglos",
+    "\\Ejercicio6-ResumenArreglos",
+    "\\Ejercicio7-ResumenArreglos",
+    "\\Ejercicio8-ResumenArreglos",
+    "\\Ejercicio9-ResumenArreglos"
   ],
-  "SelectedNode": "\\BucleFor-Ejercicio3\\Program.cs",
+  "SelectedNode": "\\Ejercicio10-ResumenArreglos\\Ejercicio10-ResumenArreglos.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\bin\Debug\net8.0\EjercicioArray3.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\bin\Debug\net8.0\EjercicioArray3.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\bin\Debug\net8.0\EjercicioArray3.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\bin\Debug\net8.0\EjercicioArray3.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\bin\Debug\net8.0\EjercicioArray3.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\EjercicioArray3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\EjercicioArray3.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\EjercicioArray3.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\EjercicioArray3.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\EjercicioArray3.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\EjercicioArray3.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\refint\EjercicioArray3.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\EjercicioArray3.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\EjercicioArray3.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EjercicioArray3\obj\Debug\net8.0\ref\EjercicioArray3.dll
