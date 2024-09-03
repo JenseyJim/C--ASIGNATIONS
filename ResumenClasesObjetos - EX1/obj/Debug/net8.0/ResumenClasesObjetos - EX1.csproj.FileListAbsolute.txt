@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\bin\Debug\net8.0\ResumenClasesObjetos - EX1.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\bin\Debug\net8.0\ResumenClasesObjetos - EX1.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\bin\Debug\net8.0\ResumenClasesObjetos - EX1.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\bin\Debug\net8.0\ResumenClasesObjetos - EX1.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\bin\Debug\net8.0\ResumenClasesObjetos - EX1.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\ResumenClasesObjetos - EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\ResumenClasesObjetos - EX1.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\ResumenClasesObjetos - EX1.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\ResumenClasesObjetos - EX1.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\ResumenClasesObjetos - EX1.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\ResumenClasesObjetos - EX1.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\refint\ResumenClasesObjetos - EX1.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\ResumenClasesObjetos - EX1.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\ResumenClasesObjetos - EX1.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\ResumenClasesObjetos - EX1\obj\Debug\net8.0\ref\ResumenClasesObjetos - EX1.dll

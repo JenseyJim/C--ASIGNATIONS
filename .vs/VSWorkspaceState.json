@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ejercicio10-ResumenArreglos",
-    "\\Ejercicio2-ResumenArreglos",
-    "\\Ejercicio3-ResumenArreglos",
     "\\Ejercicio4-ResumenArreglos",
     "\\Ejercicio5-ResumenArreglos",
     "\\Ejercicio6-ResumenArreglos",
     "\\Ejercicio7-ResumenArreglos",
     "\\Ejercicio8-ResumenArreglos",
-    "\\Ejercicio9-ResumenArreglos"
+    "\\Ejercicio9-ResumenArreglos",
+    "\\EjercicioArray1",
+    "\\EjercicioArray2",
+    "\\EjercicioArray3"
   ],
-  "SelectedNode": "\\Ejercicio10-ResumenArreglos\\Ejercicio10-ResumenArreglos.csproj",
+  "SelectedNode": "\\EjercicioArray3\\EjercicioArray3.csproj",
   "PreviewInSolutionExplorer": false
 }
