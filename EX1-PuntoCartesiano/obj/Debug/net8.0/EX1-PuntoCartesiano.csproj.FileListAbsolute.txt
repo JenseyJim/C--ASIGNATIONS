@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\bin\Debug\net8.0\EX1-PuntoCartesiano.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\bin\Debug\net8.0\EX1-PuntoCartesiano.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\bin\Debug\net8.0\EX1-PuntoCartesiano.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\bin\Debug\net8.0\EX1-PuntoCartesiano.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\bin\Debug\net8.0\EX1-PuntoCartesiano.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\EX1-PuntoCartesiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\EX1-PuntoCartesiano.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\EX1-PuntoCartesiano.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\EX1-PuntoCartesiano.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\EX1-PuntoCartesiano.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\EX1-PuntoCartesiano.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\refint\EX1-PuntoCartesiano.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\EX1-PuntoCartesiano.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\EX1-PuntoCartesiano.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX1-PuntoCartesiano\obj\Debug\net8.0\ref\EX1-PuntoCartesiano.dll

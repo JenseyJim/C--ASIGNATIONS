@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\bin\Debug\net8.0\EX2-Libro.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\bin\Debug\net8.0\EX2-Libro.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\bin\Debug\net8.0\EX2-Libro.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\bin\Debug\net8.0\EX2-Libro.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\bin\Debug\net8.0\EX2-Libro.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\EX2-Libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\EX2-Libro.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\EX2-Libro.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\EX2-Libro.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\EX2-Libro.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\EX2-Libro.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\refint\EX2-Libro.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\EX2-Libro.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\EX2-Libro.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX2-Libro\obj\Debug\net8.0\ref\EX2-Libro.dll

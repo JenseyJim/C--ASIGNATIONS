@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\bin\Debug\net8.0\EX3-Alumnos.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\bin\Debug\net8.0\EX3-Alumnos.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\bin\Debug\net8.0\EX3-Alumnos.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\bin\Debug\net8.0\EX3-Alumnos.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\bin\Debug\net8.0\EX3-Alumnos.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\EX3-Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\EX3-Alumnos.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\EX3-Alumnos.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\EX3-Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\EX3-Alumnos.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\EX3-Alumnos.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\refint\EX3-Alumnos.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\EX3-Alumnos.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\EX3-Alumnos.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\EX3-Alumnos\obj\Debug\net8.0\ref\EX3-Alumnos.dll

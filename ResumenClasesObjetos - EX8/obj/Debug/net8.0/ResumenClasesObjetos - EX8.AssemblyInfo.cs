@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResumenClasesObjetos - EX8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f859b7d80572cfc3365491e106f70aef2498e8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+841a4aed1bcc323c0169e0a0efbd7de383b798dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResumenClasesObjetos - EX8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResumenClasesObjetos - EX8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

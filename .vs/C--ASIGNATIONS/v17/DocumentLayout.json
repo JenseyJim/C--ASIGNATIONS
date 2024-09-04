@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE471774-D4EA-46EE-9A15-76B07D8B4EF3}|ResumenClasesObjetos - EX8\\ResumenClasesObjetos - EX8.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\resumenclasesobjetos - ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE471774-D4EA-46EE-9A15-76B07D8B4EF3}|ResumenClasesObjetos - EX8\\ResumenClasesObjetos - EX8.csproj|solutionrelative:resumenclasesobjetos - ex8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29E01EE1-B4E0-4A25-9B8E-CBD96644E57D}|EX3-Alumnos\\EX3-Alumnos.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\ex3-alumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E01EE1-B4E0-4A25-9B8E-CBD96644E57D}|EX3-Alumnos\\EX3-Alumnos.csproj|solutionrelative:ex3-alumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99922535-F116-470D-B87C-2A18ED6DE4B6}|ResumenClasesObjetos - EX1\\ResumenClasesObjetos - EX1.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\resumenclasesobjetos - ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99922535-F116-470D-B87C-2A18ED6DE4B6}|ResumenClasesObjetos - EX1\\ResumenClasesObjetos - EX1.csproj|solutionrelative:resumenclasesobjetos - ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC5DFA53-6089-46A6-9362-4EA4975B1FBC}|ResumenClasesObjetos - EX2\\ResumenClasesObjetos - EX2.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\resumenclasesobjetos - ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC5DFA53-6089-46A6-9362-4EA4975B1FBC}|ResumenClasesObjetos - EX2\\ResumenClasesObjetos - EX2.csproj|solutionrelative:resumenclasesobjetos - ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64134D73-FD56-4BBE-93F0-F5CEBB7658C2}|ResumenClasesObjetos - EX3\\ResumenClasesObjetos - EX3.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\resumenclasesobjetos - ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64134D73-FD56-4BBE-93F0-F5CEBB7658C2}|ResumenClasesObjetos - EX3\\ResumenClasesObjetos - EX3.csproj|solutionrelative:resumenclasesobjetos - ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914487B6-D9F2-4AF4-BC77-28B2CF913009}|ResumenClasesObjetos - EX4\\ResumenClasesObjetos - EX4.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\resumenclasesobjetos - ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914487B6-D9F2-4AF4-BC77-28B2CF913009}|ResumenClasesObjetos - EX4\\ResumenClasesObjetos - EX4.csproj|solutionrelative:resumenclasesobjetos - ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E6B7ACE-A64A-4E82-B1B8-BED2B15BDEF1}|ResumenClasesObjetos - EX5\\ResumenClasesObjetos - EX5.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\resumenclasesobjetos - ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E6B7ACE-A64A-4E82-B1B8-BED2B15BDEF1}|ResumenClasesObjetos - EX5\\ResumenClasesObjetos - EX5.csproj|solutionrelative:resumenclasesobjetos - ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86FC6008-7A0E-42EC-AB60-FDEF1C5E18C4}|ResumenClasesObjetos - EX6\\ResumenClasesObjetos - EX6.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\resumenclasesobjetos - ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FC6008-7A0E-42EC-AB60-FDEF1C5E18C4}|ResumenClasesObjetos - EX6\\ResumenClasesObjetos - EX6.csproj|solutionrelative:resumenclasesobjetos - ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03118BB0-D3D7-4827-91AC-667A2B8D715F}|ResumenClasesObjetos - EX7\\ResumenClasesObjetos - EX7.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\resumenclasesobjetos - ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03118BB0-D3D7-4827-91AC-667A2B8D715F}|ResumenClasesObjetos - EX7\\ResumenClasesObjetos - EX7.csproj|solutionrelative:resumenclasesobjetos - ex7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29E01EE1-B4E0-4A25-9B8E-CBD96644E57D}|EX3-Alumnos\\EX3-Alumnos.csproj|c:\\users\\jense\\desktop\\itla clases\\educ-permanente\\c#-asigns\\c--asignations\\ex3-alumnos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E01EE1-B4E0-4A25-9B8E-CBD96644E57D}|EX3-Alumnos\\EX3-Alumnos.csproj|solutionrelative:ex3-alumnos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,106 +70,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Class1.cs",
+              "RelativeDocumentMoniker": "EX3-Alumnos\\Class1.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Class1.cs",
+              "RelativeToolTip": "EX3-Alumnos\\Class1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T22:07:42.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX8\\Program.cs",
-              "RelativeDocumentMoniker": "ResumenClasesObjetos - EX8\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX8\\Program.cs",
-              "RelativeToolTip": "ResumenClasesObjetos - EX8\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:12:24.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX7\\Program.cs",
-              "RelativeDocumentMoniker": "ResumenClasesObjetos - EX7\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX7\\Program.cs",
-              "RelativeToolTip": "ResumenClasesObjetos - EX7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:12:14.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX6\\Program.cs",
-              "RelativeDocumentMoniker": "ResumenClasesObjetos - EX6\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX6\\Program.cs",
-              "RelativeToolTip": "ResumenClasesObjetos - EX6\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:12:05.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX5\\Program.cs",
-              "RelativeDocumentMoniker": "ResumenClasesObjetos - EX5\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX5\\Program.cs",
-              "RelativeToolTip": "ResumenClasesObjetos - EX5\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:11:55.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX4\\Program.cs",
-              "RelativeDocumentMoniker": "ResumenClasesObjetos - EX4\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX4\\Program.cs",
-              "RelativeToolTip": "ResumenClasesObjetos - EX4\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:11:44.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX3\\Program.cs",
-              "RelativeDocumentMoniker": "ResumenClasesObjetos - EX3\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX3\\Program.cs",
-              "RelativeToolTip": "ResumenClasesObjetos - EX3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:11:33.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX2\\Program.cs",
-              "RelativeDocumentMoniker": "ResumenClasesObjetos - EX2\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX2\\Program.cs",
-              "RelativeToolTip": "ResumenClasesObjetos - EX2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Program.cs",
+              "RelativeDocumentMoniker": "EX3-Alumnos\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Program.cs",
+              "RelativeToolTip": "EX3-Alumnos\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:11:18.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX1\\Program.cs",
-              "RelativeDocumentMoniker": "ResumenClasesObjetos - EX1\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ResumenClasesObjetos - EX1\\Program.cs",
-              "RelativeToolTip": "ResumenClasesObjetos - EX1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T19:10:39.291Z",
+              "WhenOpened": "2024-09-04T22:06:31.264Z",
               "EditorCaption": ""
             }
           ]
