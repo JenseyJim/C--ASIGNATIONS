@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EX1-PlanoCartersiano",
-    "\\ResumenClasesObjetos - EX3",
-    "\\ResumenClasesObjetos - EX8"
+    "\\EX2-Libro",
+    "\\EX3-Alumnos"
   ],
-  "SelectedNode": "\\EX1-PlanoCartersiano\\MainProgram.cs",
+  "SelectedNode": "\\EX3-Alumnos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
