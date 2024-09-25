@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EX3-Alumnos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c88b17c3a033466df1aeb44e7897c3b9cf99fe10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f500ecf11f5fcdd98f4149303e4b5d594bb0d99")]
 [assembly: System.Reflection.AssemblyProductAttribute("EX3-Alumnos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EX3-Alumnos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopApp.Web", "ShopApp.Web\ShopApp.Web.csproj", "{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopApp.DAL", "ShopApp.DAL\ShopApp.DAL.csproj", "{410FCF9C-0520-4DDF-A0B1-709120BBDA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410FCF9C-0520-4DDF-A0B1-709120BBDA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410FCF9C-0520-4DDF-A0B1-709120BBDA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410FCF9C-0520-4DDF-A0B1-709120BBDA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410FCF9C-0520-4DDF-A0B1-709120BBDA42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C38208-DBEA-466C-859E-160EDF961798}
+	EndGlobalSection
+EndGlobal

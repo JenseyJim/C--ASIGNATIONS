@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ShopApp.DAL</id>
+    <version>1.0.0</version>
+    <authors>ShopApp.DAL</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\bin\Debug\net8.0\ShopApp.DAL.dll" target="lib\net8.0\ShopApp.DAL.dll" />
+  </files>
+</package>

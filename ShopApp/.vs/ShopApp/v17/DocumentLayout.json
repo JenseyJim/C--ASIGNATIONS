@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jense\\source\\repos\\ShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\models\\modelosbase\\categoriesbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\models\\modelosbase\\categoriesbasemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\interfaces\\icategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\interfaces\\icategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\daos\\supplierdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\daos\\supplierdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\daos\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\daos\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\daos\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\daos\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\daos\\categoriedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\daos\\categoriedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\core\\contact_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\core\\contact_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.dal\\context\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410FCF9C-0520-4DDF-A0B1-709120BBDA42}|ShopApp.DAL\\ShopApp.DAL.csproj|solutionrelative:shopapp.dal\\context\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|solutionrelative:shopapp.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|solutionrelative:shopapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|solutionrelative:shopapp.web\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.web\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|solutionrelative:shopapp.web\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.web\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|solutionrelative:shopapp.web\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.web\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|solutionrelative:shopapp.web\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.web\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|solutionrelative:shopapp.web\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|solutionrelative:shopapp.web\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|c:\\users\\jense\\source\\repos\\shopapp\\shopapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36883F03-13F7-40F9-8EB9-DACA5DAFE4DF}|ShopApp.Web\\ShopApp.Web.csproj|solutionrelative:shopapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ShopApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Program.cs",
+              "RelativeToolTip": "ShopApp.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:09:02.114Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesBaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Models\\ModelosBase\\CategoriesBaseModel.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Models\\ModelosBase\\CategoriesBaseModel.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Models\\ModelosBase\\CategoriesBaseModel.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Models\\ModelosBase\\CategoriesBaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:23:00.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategories.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Interfaces\\ICategories.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Interfaces\\ICategories.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Interfaces\\ICategories.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Interfaces\\ICategories.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:22:32.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Entities\\Categories.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Entities\\Categories.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Entities\\Categories.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Entities\\Categories.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:22:28.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierDb.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Daos\\SupplierDb.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Daos\\SupplierDb.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Daos\\SupplierDb.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Daos\\SupplierDb.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:22:23.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDb.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Daos\\ProductDb.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Daos\\ProductDb.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Daos\\ProductDb.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Daos\\ProductDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:22:22.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDb.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Daos\\CustomerDb.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Daos\\CustomerDb.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Daos\\CustomerDb.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Daos\\CustomerDb.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:22:17.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategorieDb.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Daos\\CategorieDb.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Daos\\CategorieDb.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Daos\\CategorieDb.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Daos\\CategorieDb.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwD4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:21:39.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact_Details.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Core\\Contact_Details.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Core\\Contact_Details.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Core\\Contact_Details.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Core\\Contact_Details.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:21:36.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Core\\BaseEntity.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Core\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:21:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Context\\ShopContext.cs",
+              "RelativeDocumentMoniker": "ShopApp.DAL\\Context\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.DAL\\Context\\ShopContext.cs",
+              "RelativeToolTip": "ShopApp.DAL\\Context\\ShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:21:31.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ShopApp.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ShopApp.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T04:21:27.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShopApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T04:21:23.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopApp.Web\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "ShopApp.Web\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T04:21:20.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopApp.Web\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "ShopApp.Web\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T04:21:18.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShopApp.Web\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "ShopApp.Web\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T04:21:15.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShopApp.Web\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "ShopApp.Web\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T04:21:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ShopApp.Web\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ShopApp.Web\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:21:01.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ShopApp.Web\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\jense\\source\\repos\\ShopApp\\ShopApp.Web\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ShopApp.Web\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:20:46.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

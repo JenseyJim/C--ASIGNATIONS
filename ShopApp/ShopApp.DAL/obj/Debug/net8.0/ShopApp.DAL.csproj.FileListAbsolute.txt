@@ -1,0 +1,12 @@
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\bin\Debug\net8.0\ShopApp.DAL.deps.json
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\bin\Debug\net8.0\ShopApp.DAL.dll
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\bin\Debug\net8.0\ShopApp.DAL.pdb
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.AssemblyInfoInputs.cache
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.AssemblyInfo.cs
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.dll
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\obj\Debug\net8.0\refint\ShopApp.DAL.dll
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.pdb
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\obj\Debug\net8.0\ref\ShopApp.DAL.dll
+C:\Users\jense\source\repos\ShopApp\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.csproj.AssemblyReference.cache
