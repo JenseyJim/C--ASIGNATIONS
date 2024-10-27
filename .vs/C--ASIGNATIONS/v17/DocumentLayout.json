@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShopApp\\ShopApp.Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShopApp\\ShopApp.Web\\ShopApp.Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShopApp\\ShopApp.Web\\ShopApp.Web.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EX3-Alumnos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EX3-Alumnos\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,66 +78,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShopApp.Web.csproj.user",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj.user",
-              "RelativeDocumentMoniker": "ShopApp\\ShopApp.Web\\ShopApp.Web.csproj.user",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj.user",
-              "RelativeToolTip": "ShopApp\\ShopApp.Web\\ShopApp.Web.csproj.user",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
-              "WhenOpened": "2024-09-26T02:02:27.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShopApp.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj",
-              "RelativeDocumentMoniker": "ShopApp\\ShopApp.Web\\ShopApp.Web.csproj",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj",
-              "RelativeToolTip": "ShopApp\\ShopApp.Web\\ShopApp.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-26T02:02:11.916Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Program.cs",
+              "RelativeDocumentMoniker": "Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Program.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Program.cs",
+              "RelativeToolTip": "Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T02:05:16.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.Web\\Program.cs",
-              "RelativeDocumentMoniker": "ShopApp\\ShopApp.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.Web\\Program.cs",
-              "RelativeToolTip": "ShopApp\\ShopApp.Web\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAAAXAAAA",
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Inventario.cs",
+              "RelativeDocumentMoniker": "Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Inventario.cs",
+              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Inventario.cs",
+              "RelativeToolTip": "Intermedio\\RefactorizacionPrincipiosDise\u00F1o\\Inventario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T02:02:06.707Z",
+              "WhenOpened": "2024-10-27T02:05:10.778Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Program.cs",
-              "RelativeDocumentMoniker": "EX3-Alumnos\\Program.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Program.cs",
-              "RelativeToolTip": "EX3-Alumnos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:15:41.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Class1.cs",
-              "RelativeDocumentMoniker": "EX3-Alumnos\\Class1.cs",
-              "ToolTip": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\EX3-Alumnos\\Class1.cs",
-              "RelativeToolTip": "EX3-Alumnos\\Class1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T22:15:43.283Z"
             }
           ]
         }
