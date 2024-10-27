@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ShopApp",
+    "\\ShopApp\\ShopApp.DAL",
+    "\\ShopApp\\ShopApp.DAL\\Entities",
+    "\\ShopApp\\ShopApp.Web"
   ],
-  "SelectedNode": "\\C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS",
+  "SelectedNode": "\\ShopApp\\ShopApp.Web\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
