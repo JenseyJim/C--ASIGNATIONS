@@ -1,0 +1,15 @@
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\bin\Debug\net8.0\AplicPSOLID.exe
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\bin\Debug\net8.0\AplicPSOLID.deps.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\bin\Debug\net8.0\AplicPSOLID.runtimeconfig.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\bin\Debug\net8.0\AplicPSOLID.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\bin\Debug\net8.0\AplicPSOLID.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\AplicPSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\AplicPSOLID.AssemblyInfoInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\AplicPSOLID.AssemblyInfo.cs
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\AplicPSOLID.csproj.CoreCompileInputs.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\AplicPSOLID.sourcelink.json
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\AplicPSOLID.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\refint\AplicPSOLID.dll
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\AplicPSOLID.pdb
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\AplicPSOLID.genruntimeconfig.cache
+C:\Users\jense\Desktop\ITLA CLASES\EDUC-PERMANENTE\C#-ASIGNS\C--ASIGNATIONS\AplicPSOLID\obj\Debug\net8.0\ref\AplicPSOLID.dll

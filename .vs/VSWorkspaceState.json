@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ShopApp",
-    "\\ShopApp\\ShopApp.DAL",
-    "\\ShopApp\\ShopApp.DAL\\Entities",
-    "\\ShopApp\\ShopApp.Web"
+    "\\Basico\\ShopApp",
+    "\\Basico\\ShopApp\\ShopApp.Web"
   ],
-  "SelectedNode": "\\ShopApp\\ShopApp.Web\\Program.cs",
+  "SelectedNode": "\\Intermedio",
   "PreviewInSolutionExplorer": false
 }
