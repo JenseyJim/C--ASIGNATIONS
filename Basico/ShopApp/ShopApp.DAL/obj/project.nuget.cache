@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mz7/Ow0FxR0=",
+  "dgSpecHash": "tB9tBz2nMjE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.DAL\\ShopApp.DAL.csproj",
+  "projectFilePath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Basico\\ShopApp\\ShopApp.DAL\\ShopApp.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jense\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\jense\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

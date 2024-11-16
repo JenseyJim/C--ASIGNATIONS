@@ -2755,11 +2755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.DAL\\ShopApp.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Basico\\ShopApp\\ShopApp.DAL\\ShopApp.DAL.csproj",
       "projectName": "ShopApp.DAL",
-      "projectPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.DAL\\ShopApp.DAL.csproj",
+      "projectPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Basico\\ShopApp\\ShopApp.DAL\\ShopApp.DAL.csproj",
       "packagesPath": "C:\\Users\\jense\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\ShopApp\\ShopApp.DAL\\obj\\",
+      "outputPath": "C:\\Users\\jense\\Desktop\\ITLA CLASES\\EDUC-PERMANENTE\\C#-ASIGNS\\C--ASIGNATIONS\\Basico\\ShopApp\\ShopApp.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

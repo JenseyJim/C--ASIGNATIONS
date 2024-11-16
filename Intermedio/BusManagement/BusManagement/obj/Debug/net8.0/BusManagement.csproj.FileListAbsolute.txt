@@ -1,0 +1,14 @@
+C:\Users\jense\source\repos\BusManagement\BusManagement\bin\Debug\net8.0\BusManagement.exe
+C:\Users\jense\source\repos\BusManagement\BusManagement\bin\Debug\net8.0\BusManagement.deps.json
+C:\Users\jense\source\repos\BusManagement\BusManagement\bin\Debug\net8.0\BusManagement.runtimeconfig.json
+C:\Users\jense\source\repos\BusManagement\BusManagement\bin\Debug\net8.0\BusManagement.dll
+C:\Users\jense\source\repos\BusManagement\BusManagement\bin\Debug\net8.0\BusManagement.pdb
+C:\Users\jense\source\repos\BusManagement\BusManagement\obj\Debug\net8.0\BusManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\source\repos\BusManagement\BusManagement\obj\Debug\net8.0\BusManagement.AssemblyInfoInputs.cache
+C:\Users\jense\source\repos\BusManagement\BusManagement\obj\Debug\net8.0\BusManagement.AssemblyInfo.cs
+C:\Users\jense\source\repos\BusManagement\BusManagement\obj\Debug\net8.0\BusManagement.csproj.CoreCompileInputs.cache
+C:\Users\jense\source\repos\BusManagement\BusManagement\obj\Debug\net8.0\BusManagement.dll
+C:\Users\jense\source\repos\BusManagement\BusManagement\obj\Debug\net8.0\refint\BusManagement.dll
+C:\Users\jense\source\repos\BusManagement\BusManagement\obj\Debug\net8.0\BusManagement.pdb
+C:\Users\jense\source\repos\BusManagement\BusManagement\obj\Debug\net8.0\BusManagement.genruntimeconfig.cache
+C:\Users\jense\source\repos\BusManagement\BusManagement\obj\Debug\net8.0\ref\BusManagement.dll
